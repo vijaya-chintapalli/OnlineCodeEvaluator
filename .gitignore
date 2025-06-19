@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+.env
+temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+coverage/
+
+# React build output
+frontend/build/
+frontend/node_modules/
+frontend/.env
+frontend/.DS_Store
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Test results
+test-output/

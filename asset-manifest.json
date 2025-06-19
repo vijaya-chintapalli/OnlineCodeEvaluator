@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/OnlineCodeEvaluator/static/js/main.d27bdb4d.js",
+    "index.html": "/OnlineCodeEvaluator/index.html",
+    "main.d27bdb4d.js.map": "/OnlineCodeEvaluator/static/js/main.d27bdb4d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d27bdb4d.js"
+  ]
+}
