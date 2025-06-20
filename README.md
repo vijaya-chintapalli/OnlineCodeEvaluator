@@ -3,7 +3,7 @@
 A lightweight web-based Java (and multi-language) code evaluator tool with support for custom input, real-time compilation, and output display. Ideal for quick testing of code snippets and learning purposes.
 
 ## 🌐 Live Demo
-> 🔗 _[Coming soon or Add your URL here]_  
+> 🔗   
 > e.g., https://yourusername.github.io/online-code-evaluator
 
 ## 🛠️ Tech Stack
