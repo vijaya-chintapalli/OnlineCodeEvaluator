@@ -1,0 +1,29 @@
+// src/components/TestResult.js
+import React from "react";
+
+function TestResult({ results }) {
+  return (
+    <div style={{ marginTop: "20px" }}>
+      <h3>🧪 Test Results</h3>
+      {Array.isArray(results) ? (
+        results.map((res, index) => (
+          <div key={index}>
+            <p><strong>Test {index + 1}:</strong></p>
+            <p><strong>Input:</strong> {res.input}</p>
+            <p><strong>Expected:</strong> {res.expected}</p>
+            <p><strong>Output:</strong> {res.output}</p>
+            <p>{res.passed ? "✅ Passed" : "❌ Failed"}</p>
+            <hr />
+          </div>
+        ))
+      ) : (
+        <div>
+          <p><strong>Output:</strong></p>
+          <pre>{results}</pre>
+        </div>
+      )}
+    </div>
+  );
+}
+
+export default TestResult;

@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/OnlineCodeEvaluator/static/js/main.dc6bae58.js",
+    "main.js": "/OnlineCodeEvaluator/static/js/main.a7d0d77f.js",
+    "static/media/TestResult": "/OnlineCodeEvaluator/static/media/TestResult.babb92c0f4e21fd4f262",
     "index.html": "/OnlineCodeEvaluator/index.html",
-    "main.dc6bae58.js.map": "/OnlineCodeEvaluator/static/js/main.dc6bae58.js.map"
+    "main.a7d0d77f.js.map": "/OnlineCodeEvaluator/static/js/main.a7d0d77f.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc6bae58.js"
+    "static/js/main.a7d0d77f.js"
   ]
 }
