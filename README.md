@@ -3,8 +3,7 @@
 A lightweight web-based Java (and multi-language) code evaluator tool with support for custom input, real-time compilation, and output display. Ideal for quick testing of code snippets and learning purposes.
 
 ## 🌐 Live Demo
-> 🔗   
-> e.g., https://yourusername.github.io/online-code-evaluator
+> 🔗   https://vijaya-chintapalli.github.io/OnlineCodeEvaluator/
 
 ## 🛠️ Tech Stack
 
@@ -24,10 +23,8 @@ A lightweight web-based Java (and multi-language) code evaluator tool with suppo
 
 ## 📸 Screenshots
 
-> *(Include these after hosting)*  
-- Editor UI  
-- Output area with result  
-- Error display (compile/runtime)
+> ![image](https://github.com/user-attachments/assets/4b579a09-27f3-4992-9b9e-0f0f3c5d3fe3)
+
 
 ## 📁 Folder Structure
 
@@ -51,7 +48,7 @@ OnlineCodeEvaluator/
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/OnlineCodeEvaluator.git
+git clone https://github.com/vijaya-chintapalli/OnlineCodeEvaluator.git
 cd OnlineCodeEvaluator
 ```
 
